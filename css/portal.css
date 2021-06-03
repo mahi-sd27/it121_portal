@@ -4,25 +4,25 @@
 
 html {
     background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Dust Storm', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
 
 ::selection {
-    color: #000; 
-    background: #ff0;
+    color: #e4c2c1; 
+    background: #fef2f2;
 }
 
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: #ded1bd;
     line-height: 2.5em;
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: #ebe8e7;
     overflow: auto;
 }
 
