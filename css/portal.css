@@ -56,10 +56,12 @@ footer {
 /* Responsive rules */
 
 /* DESKTOP */
-@media all and (min-width:1200px) {
+@media all and (min-width:200px) {
     main.wrapper {
-        width: 80%;
+        width: 800px;
         margin: auto;
+        position: relative;
+        right:560px;
     }
     
     h1 {
