@@ -1,6 +1,6 @@
 /* Global rules */
 
-@import url(https://fonts.googleapis.com/css?family=Inconsolata');
+@import url("https://fonts.googleapis.com/css?family=Inconsolata");
 
 html {
     background-color: #EBE8E7;
@@ -17,12 +17,12 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #ded1bd;
+    background: #DED1BD;
     line-height: 2.5em;
 }
 
 main.wrapper {
-    background-color: #ebe8e7;
+    background-color: #EBE8E7;
     overflow: auto;
 }
 
@@ -37,13 +37,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:#E4C2C1;
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: #FEF2F2;
     text-decoration: none;
 }
 
