@@ -60,6 +60,8 @@ footer {
     main.wrapper {
         width: 800px;
         margin: auto;
+        position: relative;
+        left: 50px;
         
         
     }
