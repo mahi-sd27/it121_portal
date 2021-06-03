@@ -1,10 +1,10 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url(https://fonts.googleapis.com/css?family=Inconsolata');
 
 html {
-    background-color: lightgray;
-    font-family: 'Dust Storm', sans-serif;
+    background-color: #EBE8E7;
+    font-family: 'Duststorm', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
