@@ -3,26 +3,28 @@
 @import url("https://fonts.googleapis.com/css?family=Inconsolata");
 
 html {
-    background-color: #EBE8E7;
+    background-color: #e7e6dd;
     font-family: 'Duststorm', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
 
 ::selection {
-    color: #e4c2c1; 
+    color: #d4dfcf; 
     background: #fef2f2;
 }
 
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #DED1BD;
+    color: #89cff0;
+    
     line-height: 2.5em;
+    font-family:'Bodoni';
 }
 
 main.wrapper {
-    background-color: #EBE8E7;
+    background-color: #e7e6dd;
     overflow: auto;
 }
 
@@ -58,7 +60,8 @@ footer {
 /* DESKTOP */
 @media all and (min-width:200px) {
     main.wrapper {
-        width: 800px;
+        width: 60%;
+        
         margin: auto;
         
         
@@ -70,7 +73,7 @@ footer {
     }
     
     picture.profile img {
-        width: 50%;
+        width: 45%;
         float: left;
         margin-right: 2em;
     }
